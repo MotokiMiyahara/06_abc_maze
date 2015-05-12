@@ -1,8 +1,9 @@
-コード銀行：英語でプリーズ！
+コード銀行：ABC迷路
 ====
 
 使用例
-`./maze_info.rb case1.in.txt`
+`./run.sh`
+`./maze_info.rb abc_maze/case1.in.txt`
 
 
 ## 解答
