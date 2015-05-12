@@ -38,16 +38,13 @@
 
 入力
 
-  ABCA
-
-  BACB
-
-  ABBC
-
-  ACAB
+    ABCA
+    BACB
+    ABBC
+    ACAB
 出力
 
-possible
+    possible
 
 ##【解答方法】
 
