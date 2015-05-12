@@ -2,7 +2,9 @@
 ====
 
 使用例
+
 `./run.sh`
+
 `./maze_info.rb abc_maze/case1.in.txt`
 
 
